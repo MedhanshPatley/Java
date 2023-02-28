@@ -12,7 +12,7 @@ import java.util.Scanner;
             a = sc.nextInt();
             b = sc.nextInt();
 
-            Operations obj = new Operations();
+            Calculator obj = new Calculator();
             int add=obj.Add(a,b);
             double pow=obj.Power(a,b);
             int sub=obj.Sub(a,b);
@@ -26,7 +26,7 @@ import java.util.Scanner;
             System.out.println("Multiplication : "+multi);
         }
     }
-    class Operations
+    class Calculator
     {
         int Add(int i, int j)
         {

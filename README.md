@@ -23,3 +23,7 @@ Objects (*you may use the Vector class)
 3.  all data members to have private access.
 4.  The class ‘Card’ to have the following methods:
 createDeck(), printCard(), printDeck (),sameCard(),compareCard(), sortCard(), findCard() which searches through an array or vector of Cards to see whether it contains a certain card, dealCards() function: to print 5 random cards from the existing deck.
+
+Assignment -5
+Part -1:
+ Implement the generic Shapes class as an interface s so that we can implement concrete classes like circle, triangle, rectangle class from it.

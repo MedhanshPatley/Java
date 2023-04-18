@@ -34,3 +34,15 @@ Part -1:
 abstract class Employee
 private String name, address;
 protected int basicSalary;
+
+
+Assignment -6
+Part 1: An implementation of IntStack (integer stack) that uses fixed
+storage as well as "growable" using interface.
+<img width="312" alt="image" src="https://user-images.githubusercontent.com/114643954/232841526-55e78a04-c990-49dd-afc7-c51ebd91f845.png">
+
+Create a user defined package “pkg_Stack” where the interface is stored.
+The other two complete classes will need to import the package
+‘pkg_Stack’ and then use it.
+Part 2: Program to implement the following Multiple Inheritance.
+<img width="264" alt="image" src="https://user-images.githubusercontent.com/114643954/232841594-46314ac9-21db-4c27-b185-ef648bc9e0ea.png">
